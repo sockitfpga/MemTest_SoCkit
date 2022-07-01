@@ -1,3 +1,7 @@
+# MemTest core for SoCkit (MiSTer)
+
+Follows original readme.
+
 # MemTest - Utility to test SDRAM daughter board.
 
 ## Memtest screen:
