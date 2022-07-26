@@ -1,4 +1,4 @@
-# MemTest core for SoCkit (MiSTer)
+# MemTest core for [SoCkit (MiSTer) Platform](https://github.com/sockitfpga/MiSTer_SoCkit) 
 
 Follows original readme.
 
